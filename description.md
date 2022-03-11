@@ -14,3 +14,9 @@
 <a href=" https://github.com/anuraghazra/convoychat " >
   <img align= " center " src= " https://github-readme-stats.vercel.app/api/pin/?username=swimmant&repo=convoychat " />
 </a>
+
+
+机器人提交
+![Metrics](https://github.com/FloEdelmann/FloEdelmann/blob/main/github-metrics.svg)
+
+<sub>Created by <a href="https://github.com/lowlighter/metrics">lowlighter Metrics</a>.</sub>
