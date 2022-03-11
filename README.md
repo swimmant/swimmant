@@ -15,10 +15,10 @@
 ![](https://img.shields.io/badge/JavaScript-language-brightgreen)
 
 
-![](https://img.shields.io/badge/Django-frame-blueviolet)
-![](https://img.shields.io/badge/Vue-frame-blueviolet)
-![](https://img.shields.io/badge/Redis-frame-blueviolet)
-![](https://img.shields.io/badge/Docker-frame-blueviolet)
+![](https://img.shields.io/badge/Django-后端-blueviolet)
+![](https://img.shields.io/badge/Vue-前端-blueviolet)
+![](https://img.shields.io/badge/Redis-缓存-blueviolet)
+![](https://img.shields.io/badge/Docker-容器-blueviolet)
 
 
 **🌱网站**
