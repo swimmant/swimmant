@@ -24,3 +24,8 @@
 生成语言标签
 https://shields.io/#/
 ![](https://img.shields.io/badge/python-%20-green)
+
+#仓库详情~ 感觉就不弄那么复杂了
+https://simon.lecoq.io/
+https://github.com/lowlighter
+![Metrics](https://metrics.lecoq.io/swimmant?template=classic&base.metadata=0&isocalendar=1&people=1&isocalendar.duration=half-year&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
