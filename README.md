@@ -38,3 +38,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swimmant&layout=compact&langs_count=8&theme=algolia" height="140px" />
 
 ![Metrics](https://metrics.lecoq.io/swimmant?template=classic&isocalendar=1&discussions=1&people=1&isocalendar.duration=half-year&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&discussions.categories=true&discussions.categories.limit=0&config.timezone=Asia%2FShanghai)
+
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.repository.svg" alt=""></img>
+
+<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
