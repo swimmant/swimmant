@@ -19,32 +19,16 @@ jobs:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
-          token: ${{ secrets.METRIC }}
+          token: ${{ secrets.METRIC}}
 
           # Options
           user: swimmant
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Asia/Shanghai
-          plugin_discussions: yes
-          plugin_discussions_categories: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-
-        - name: Example
-          uses: lowlighter/metrics@latest
-          with:
-            template: repository
-            filename: metrics.repository.svg
-            token: ${{ secrets.METRIC }}
-            user: lowlighter
-            repo: metrics
-            plugin_lines: yes
-            plugin_followup: yes
-            plugin_projects: yes
-            plugin_projects_repositories: lowlighter/metrics/projects/1
-

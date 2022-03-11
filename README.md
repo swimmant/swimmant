@@ -1,5 +1,5 @@
 ### 👋 您好呀~~ 
-#### 我叫陈科全，现在是一名学生，专业是软件工程，就读于陕西师范大学。 
+#### 我叫陈科全，现在是一名研二在读学生，专业是软件工程，就读于陕西师范大学。 
 #### 致力于科学技术改变生活，致力于人工智能实现共产主义，致力于智能设备服务人类
 **💻研究方向**
 
@@ -21,9 +21,9 @@
 ![](https://img.shields.io/badge/Docker-frame-blueviolet)
 
 
-**🌱现在**
+**🌱网站**
 
-- 在读研二学生，[个人网站](https://chenkequan.cn) ~~准备迭代暂时没维护、[技术博客](https://blog.csdn.net/ckq707718837?type=blog)
+- [个人网站](https://chenkequan.cn) ~~准备迭代暂时没维护、[技术博客](https://blog.csdn.net/ckq707718837?type=blog)
 
 **💡想法**
 
@@ -37,8 +37,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=swimmant&show_icons=true&theme=algolia" height="140px" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swimmant&layout=compact&langs_count=8&theme=algolia" height="140px" />
 
-![Metrics](https://metrics.lecoq.io/swimmant?template=classic&isocalendar=1&discussions=1&people=1&isocalendar.duration=half-year&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&discussions.categories=true&discussions.categories.limit=0&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/swimmant?template=classic&base.metadata=0&isocalendar=1&people=1&isocalendar.duration=half-year&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
 
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.repository.svg" alt="🦑"></img>
-
-<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
