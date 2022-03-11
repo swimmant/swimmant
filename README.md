@@ -36,3 +36,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=swimmant&show_icons=true&theme=algolia" height="140px" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swimmant&layout=compact&langs_count=8&theme=algolia" height="140px" />
+
+![Metrics](https://metrics.lecoq.io/swimmant?template=classic&isocalendar=1&discussions=1&people=1&isocalendar.duration=half-year&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&discussions.categories=true&discussions.categories.limit=0&config.timezone=Asia%2FShanghai)
