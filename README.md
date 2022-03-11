@@ -23,7 +23,7 @@
 
 **🌱现在**
 
-- 在读研二学生，![个人网站](https://chenkequan.cn) ~~准备迭代暂时没维护、![技术博客](https://blog.csdn.net/ckq707718837?type=blog)
+- 在读研二学生，[个人网站](https://chenkequan.cn) ~~准备迭代暂时没维护、[技术博客](https://blog.csdn.net/ckq707718837?type=blog)
 
 **💡想法**
 
@@ -32,7 +32,7 @@
 
 **🤟致谢**
 
-- 谢谢您的探访，让我的工作变得有价值。 同时希望您喜欢我的内容并度过愉快的一天。如果对您有帮助，记得给个小星星是对我最大的鼓励~~
+- 谢谢您的探访，让我的工作变得有价值。 同时希望您喜欢我的内容并度过愉快的一天。如果对您有帮助，记得给个小星星是对我最大的鼓励~~👋
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=swimmant&show_icons=true&theme=algolia" height="140px" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swimmant&layout=compact&langs_count=8&theme=algolia" height="140px" />
