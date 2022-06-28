@@ -23,7 +23,7 @@
 
 **🌱网站**
 
-- [个人网站](https://chenkequan.cn) [技术博客](https://blog.csdn.net/ckq707718837?type=blog)
+- [个人网站](https://chenkequan.cn) [技术博客](https://blog.csdn.net/ckq707718837?type=blog) [学习笔记](https://study.chenkequan.cn)
 
 **💡想法**
 
