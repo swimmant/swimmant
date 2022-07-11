@@ -1,11 +1,9 @@
 ### 👋 您好呀~~ 
-#### 现在是一名研二在读学生，专业是软件工程。 
-#### 致力于科学技术改变生活，致力于人工智能实现共产主义，致力于智能设备服务人类
-**💻研究方向**
+#### 
+- 科技改变生活
+- Life's most persistent and urgent question is, "What are you doing for others?"
+- Enjoy programming and build awesome stuff.
 
-- 深度学习, 计算机视觉
-- 图像处理和目标检测任务,当前在研究yolo的改进例如yolov5和yolox
-- 通过计算机视觉技术实现工业生产检测包括安全、质量、灾情预警等
 
 **🚀技术栈**
 
@@ -32,7 +30,7 @@
 
 **🤟致谢**
 
-- 谢谢您的探访，让我的工作变得有价值。 同时希望您喜欢我的内容并度过愉快的一天。如果对您有帮助，记得给个小星星是对我最大的鼓励~~👋
+- 谢谢您的探访，让我的工作变得有价值。如果对您有帮助，记得给个小星星是对我最大的鼓励~~👋
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=swimmant&show_icons=true&theme=algolia" height="140px" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swimmant&layout=compact&langs_count=8&theme=algolia" height="140px" />
